@@ -1,0 +1,15 @@
+body{
+background:linear-gradient(#660033,#e60073,#ff80bf,#145214,#33cc33,#adebad,#0047b3,#007399, #66ffff);
+}
+#Mother{
+    color: #ffe6ff;
+    font-size: 50;
+}
+#Father{
+    color: #ffcc80;
+    font-size: 50;
+}
+#Son{
+    color:#66ff66;
+    font-size: 50;
+}
